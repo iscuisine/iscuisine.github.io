@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 徒然なるままにhogehoge</title>
+    <link>https://iscuisine.github.io/post/</link>
+    <description>Recent content in Posts on 徒然なるままにhogehoge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 21 Dec 2018 15:27:03 +0900</lastBuildDate>
+    
+	<atom:link href="https://iscuisine.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugoでブログを作ってみた</title>
+      <link>https://iscuisine.github.io/2018/12/21/hugo%E3%81%A7%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/</link>
+      <pubDate>Fri, 21 Dec 2018 15:27:03 +0900</pubDate>
+      
+      <guid>https://iscuisine.github.io/2018/12/21/hugo%E3%81%A7%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/</guid>
+      <description>こんにちは、たっゃと申します。
+私は、現在京都の某大学(ちなみに京大ではない&amp;hellip;)で情報セキュリティの研究をしている学生です。　最近、研究室のHPを改修したりなどフロントエンドの開発をすることがあって、興味を持ったところが事の発端です。　自分でも技術ブログでも始めてみようかなと思い、その頃調べていた静的サイトジェネレータというものを使ってみようと思いました。　基本自分のメモとしてつかっていこうと思っているので、かなり雑なまとめ方をするかもしれませんがご了承ください。
+次の記事で、HugoとGithubPagesで公開するところまでをまとめるつもりです。
+ブログ初心者ですので、何卒よろしくお願いいたします。</description>
+    </item>
+    
+  </channel>
+</rss>
